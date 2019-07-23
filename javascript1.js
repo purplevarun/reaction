@@ -17,8 +17,8 @@
 				  return color;
 			}
 			function makeappear(){
-				document.getElementById("shape").style.top=(Math.random()*200)+"px";
-				document.getElementById("shape").style.left=(Math.random()*400)+"px";
+				document.getElementById("shape").style.top=(Math.random()*400)+"px";
+				document.getElementById("shape").style.left=(Math.random()*500)+"px";
 				document.getElementById("shape").style.display="block";
 				document.getElementById("shape").style.width=(100+Math.random()*200)+"px";
 				document.getElementById("shape").style.height=(100+Math.random()*200)+"px";
