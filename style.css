@@ -12,7 +12,19 @@
 				font-weight:bold;
 				
 			}
+			#ek{
+				color:green;
+			}
 			body{
 				font-family:sans-serif;
 				background-image: url("bg.jpg");
+			}
+			.name{
+				float:right;
+			}
+			.reqd{
+				font-size:10px;
+			}
+			#rang{
+				color:red;
 			}
