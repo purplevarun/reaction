@@ -24,7 +24,7 @@
 				document.getElementById("shape").style.height=(100+Math.random()*200)+"px";
 				document.getElementById("shape").style.backgroundColor=getRandomColor();
 				i=new Date().getTime();
-				if(Math.random()>0.5)
+				if(Math.random()>=0.3)
 					document.getElementById("shape").style.borderRadius="50%";
 				else
 						document.getElementById("shape").style.borderRadius="0";
