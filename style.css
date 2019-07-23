@@ -1,0 +1,17 @@
+			#shape{
+				width:100px;
+				height:100px;
+				background-color:red;
+				position:relative;
+				top:100px;
+				left:100px;
+				display:none;
+			}
+			p{
+				font-size:20px;
+				font-weight:bold;
+				
+			}
+			body{
+				font-family:sans-serif;
+			}
