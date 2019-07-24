@@ -30,7 +30,7 @@
 						document.getElementById("shape").style.borderRadius="0";
 			}
 			function delay(){
-				setTimeout(makeappear, Math.random()*1500);
+				setTimeout(makeappear, Math.random()*1000);
 			}
 			delay();
 			document.getElementById("shape").onclick=function(){
